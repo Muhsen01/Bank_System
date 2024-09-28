@@ -1,1 +1,1 @@
-# Bank_System
+This project is a Java application that simulates a basic banking system. It enables users to create accounts, deposit and withdraw funds, transfer money between accounts, and check balances. The project focuses on providing essential banking functionalities while emphasizing error handling and user interaction.
